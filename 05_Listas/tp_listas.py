@@ -44,7 +44,6 @@ print(numeros)
 # En la segunda linea la "sentencia remove" se usa para eliminar elementos, en este caso se requiere eliminar mediante "max" el numero mayos
 # en la ultima linea se imprime el resultado de la nueva lista, en la cual se elimino el valor más alto de la lista, el número 22". 
 
-
 # 6) Crear una lista con números del 10 al 30 (incluído), haciendo saltos de 5 en 5 y mostrar por pantalla los dos primeros.
 lista_numeros = list(range(10, 31, 5))  # el 31 se excluye
 print(lista_numeros)
